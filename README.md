@@ -1,2 +1,2 @@
 # hello-world
-hey hows it goin world 
+world: hey hows it goin
